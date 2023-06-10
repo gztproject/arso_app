@@ -1,0 +1,40 @@
+AntiFeatures:
+Categories:
+  - Weather
+License:
+AuthorName:
+AuthorEmail:
+AuthorWebSite:
+WebSite:
+SourceCode:
+IssueTracker:
+Translation:
+Changelog:
+Donate:
+Bitcoin:
+
+AutoName:
+
+RepoType: git
+Repo:
+
+Builds:
+- versionName: '1.0.0'
+    versionCode: 100
+    commit: Version-1.0.0
+    subdir: app
+    submodules: true
+    gradle:
+      - yes
+  - versionName: '1.0.1'
+    versionCode: 101
+    commit: Version-1.0.1
+    subdir: app
+    submodules: true
+    gradle:
+      - yes
+
+AutoUpdateMode: Version v%v
+UpdateCheckMode: Tags
+CurrentVersion: '1.0.1'
+CurrentVersionCode: 101

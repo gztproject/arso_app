@@ -1,0 +1,8 @@
+
+Improvements & legal fixes
+
+    Icon fixes
+    Theme change for legal reasons
+    Changed name of app to "ARSO vreme - neuradna"
+    Fixed minor bugs
+
